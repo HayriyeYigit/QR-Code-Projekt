@@ -1,1 +1,1 @@
-ein test wird ausgeführt
+Frontend Mentor - QR code component
